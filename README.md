@@ -7,7 +7,8 @@ Dataset :
 Continuous Variables
 200 Independent Features
 0/1 Dependent Variable
-Imbalanced Dataset 
+
+Imbalanced Dataset (90% - Negative and 10% - Positive)
 
 Since data is imbalanced, Stratified Sampling along with K-fold cross validation is implemented to equally distribute the positive and negative classes.
 
